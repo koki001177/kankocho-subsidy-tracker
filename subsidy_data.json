@@ -1,7 +1,32 @@
 {
-  "last_updated": "2026-05-15T02:25:29",
+  "last_updated": "2026-05-16T02:07:45",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
+    {
+      "id": "kobo05_00104",
+      "published": "2026年5月15日",
+      "status_raw": "募集中",
+      "status": "open",
+      "title": "「観光需要分散のための地域観光資源のコンテンツ化促進事業」の二次公募に向けた事業説明会を実施します",
+      "categories": [
+        "その他観光関係者",
+        "交通",
+        "宿泊業",
+        "旅行業",
+        "自治体・DMO",
+        "観光施設"
+      ],
+      "deadline": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo05_00104.html",
+      "budget_year": "R7補正",
+      "budget_amount": "49億円",
+      "rate": "—",
+      "target": "—",
+      "summary": "「観光需要分散のための地域観光資源のコンテンツ化促進事業」の二次公募に向けた事業説明会を実施します",
+      "note": "オーバーツーリズム解消目的",
+      "highlight": false,
+      "is_new": false
+    },
     {
       "id": "kobo04_00058",
       "published": "2026年5月13日",
@@ -411,8 +436,8 @@
     {
       "id": "kobo04_00047",
       "published": "2026年3月26日",
-      "status_raw": "募集中",
-      "status": "open",
+      "status_raw": "募集終了",
+      "status": "closed",
       "title": "「国際競争力の高いスノーリゾート形成促進事業」に係る地域公募開始のお知らせ",
       "categories": [
         "その他観光関係者",
@@ -422,7 +447,7 @@
         "自治体・DMO",
         "観光施設"
       ],
-      "deadline": "2026年5月15日",
+      "deadline": "",
       "url": "https://www.mlit.go.jp/kankocho/kobo04_00047.html",
       "budget_year": "",
       "budget_amount": "—",
