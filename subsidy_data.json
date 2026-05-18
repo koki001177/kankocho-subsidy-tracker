@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T02:12:35",
+  "last_updated": "2026-05-18T02:32:58",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
     {
@@ -390,8 +390,8 @@
     {
       "id": "kobo06_00048",
       "published": "2026年4月1日",
-      "status_raw": "募集中",
-      "status": "open",
+      "status_raw": "募集終了",
+      "status": "closed",
       "title": "令和7年補正予算「観光地・観光産業におけるユニバーサルツーリズム促進事業」の事業者公募開始のお知らせ",
       "categories": [
         "宿泊業",
@@ -513,8 +513,8 @@
     {
       "id": "kobo06_00046",
       "published": "2026年3月23日",
-      "status_raw": "募集中",
-      "status": "open",
+      "status_raw": "募集終了",
+      "status": "closed",
       "title": "【令和7年度補正予算】観光地経営の高度化事業（人材育成補助金）に係る公募資料及び申請受付期間のお知らせ",
       "categories": [
         "その他観光関係者",
@@ -524,7 +524,7 @@
         "自治体・DMO",
         "観光施設"
       ],
-      "deadline": "2026年5月15日",
+      "deadline": "",
       "url": "https://www.mlit.go.jp/kankocho/kobo06_00046.html",
       "budget_year": "",
       "budget_amount": "—",
