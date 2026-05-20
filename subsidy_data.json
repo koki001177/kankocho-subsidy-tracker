@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-19T02:31:48",
+  "last_updated": "2026-05-20T02:32:08",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
     {
       "id": "kobo06_00057",
-      "published": "2026年5月19日",
+      "published": "2026年5月20日",
       "status_raw": "募集中",
       "status": "open",
       "title": "令和８年度実施「ユニバーサルツーリズムに資するデザイン開発等実証事業」公募説明会の開催および公募について",
@@ -17,13 +17,60 @@
         "観光施設",
         "一般の方"
       ],
-      "deadline": "2026年5月22日",
+      "deadline": "",
       "url": "https://www.mlit.go.jp/kankocho/kobo06_00057.html",
       "budget_year": "",
       "budget_amount": "—",
       "rate": "—",
       "target": "—",
       "summary": "令和８年度実施「ユニバーサルツーリズムに資するデザイン開発等実証事業」公募説明会の開催および公募について",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
+    {
+      "id": "kobo08_00057",
+      "published": "2026年5月20日",
+      "status_raw": "募集中",
+      "status": "open",
+      "title": "令和８年度「オーバーツーリズムの未然防止・抑制をはじめとする観光地の面的受入環境整備促進事業」の計画申請受付開始日のお知らせ",
+      "categories": [
+        "その他観光関係者",
+        "交通",
+        "宿泊業",
+        "旅行業",
+        "自治体・DMO",
+        "観光施設"
+      ],
+      "deadline": "2026年5月29日",
+      "url": "https://www.mlit.go.jp/kankocho/kobo08_00057.html",
+      "budget_year": "令和8年度",
+      "budget_amount": "100億円",
+      "rate": "上限2億円(2/3)、5,000万円(1/2)",
+      "target": "自治体・DMO・観光事業者等",
+      "summary": "令和８年度「オーバーツーリズムの未然防止・抑制をはじめとする観光地の面的受入環境整備促進事業」の計画申請受付開始日のお知らせ",
+      "note": "前年比8.3倍 / 事前着手届出4/17 12:00まで",
+      "highlight": true,
+      "is_new": false
+    },
+    {
+      "id": "kobo06_00056",
+      "published": "2026年5月19日",
+      "status_raw": "採択結果",
+      "status": "result",
+      "title": "【令和7年度補正】「地域全体の消費拡大、誘客・再来訪促進に向けた観光DX推進モデル実証事業」における採択結果",
+      "categories": [
+        "その他観光関係者",
+        "宿泊業",
+        "自治体・DMO"
+      ],
+      "deadline": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo06_00056.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "【令和7年度補正】「地域全体の消費拡大、誘客・再来訪促進に向けた観光DX推進モデル実証事業」における採択結果",
       "note": "",
       "highlight": false,
       "is_new": false
@@ -386,31 +433,6 @@
       "summary": "令和８年度「観光コンテンツの持続的供給に資する質的価値の維持向上事業」の公募を開始します",
       "note": "",
       "highlight": false,
-      "is_new": false
-    },
-    {
-      "id": "kobo08_00057",
-      "published": "2026年4月1日",
-      "status_raw": "募集中",
-      "status": "open",
-      "title": "令和８年度「オーバーツーリズムの未然防止・抑制をはじめとする観光地の面的受入環境整備促進事業」の公募開始、公募説明会の開催",
-      "categories": [
-        "その他観光関係者",
-        "交通",
-        "宿泊業",
-        "旅行業",
-        "自治体・DMO",
-        "観光施設"
-      ],
-      "deadline": "2026年5月29日",
-      "url": "https://www.mlit.go.jp/kankocho/kobo08_00057.html",
-      "budget_year": "令和8年度",
-      "budget_amount": "100億円",
-      "rate": "上限2億円(2/3)、5,000万円(1/2)",
-      "target": "自治体・DMO・観光事業者等",
-      "summary": "令和８年度「オーバーツーリズムの未然防止・抑制をはじめとする観光地の面的受入環境整備促進事業」の公募開始、公募説明会の開催",
-      "note": "前年比8.3倍 / 事前着手届出4/17 12:00まで",
-      "highlight": true,
       "is_new": false
     },
     {
