@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-05-25T02:38:29",
+  "last_updated": "2026-05-26T02:28:30",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
+    {
+      "id": "kobo06_00058",
+      "published": "2026年5月26日",
+      "status_raw": "募集中",
+      "status": "open",
+      "title": "令和８年度実施「ユニバーサルツーリズムに資するデザイン開発等実証事業」の公募を開始します。",
+      "categories": [
+        "その他観光関係者",
+        "交通",
+        "宿泊業",
+        "旅行業",
+        "自治体・DMO",
+        "観光施設",
+        "一般の方"
+      ],
+      "deadline": "2026年6月19日",
+      "url": "https://www.mlit.go.jp/kankocho/kobo06_00058.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "令和８年度実施「ユニバーサルツーリズムに資するデザイン開発等実証事業」の公募を開始します。",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
     {
       "id": "kobo08_00057",
       "published": "2026年5月22日",
@@ -198,8 +224,8 @@
     {
       "id": "kobo04_00055",
       "published": "2026年4月30日",
-      "status_raw": "募集中",
-      "status": "open",
+      "status_raw": "募集終了",
+      "status": "closed",
       "title": "「DMO総合支援事業（DMO体制整備・機能強化事業）」の公募を開始します。",
       "categories": [
         "自治体・DMO"
