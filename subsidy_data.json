@@ -1,7 +1,32 @@
 {
-  "last_updated": "2026-05-26T02:28:30",
+  "last_updated": "2026-05-27T02:37:45",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
+    {
+      "id": "kobo04_00060",
+      "published": "2026年5月27日",
+      "status_raw": "募集中",
+      "status": "open",
+      "title": "観光地域づくり法人（登録DMO第21弾）の募集を開始します",
+      "categories": [
+        "その他観光関係者",
+        "交通",
+        "宿泊業",
+        "旅行業",
+        "自治体・DMO",
+        "観光施設"
+      ],
+      "deadline": "2026年7月31日",
+      "url": "https://www.mlit.go.jp/kankocho/kobo04_00060.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "観光地域づくり法人（登録DMO第21弾）の募集を開始します",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
     {
       "id": "kobo06_00058",
       "published": "2026年5月26日",
