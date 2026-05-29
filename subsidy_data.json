@@ -1,7 +1,58 @@
 {
-  "last_updated": "2026-05-28T02:14:41",
+  "last_updated": "2026-05-29T02:29:30",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
+    {
+      "id": "kobo05_00108",
+      "published": "2026年5月29日",
+      "status_raw": "採択結果",
+      "status": "result",
+      "title": "令和８年度「 質の高い消費と投資を呼び込むためのデジタルノマド誘客促進事業(調査事業)」採択結果のお知らせ",
+      "categories": [
+        "その他観光関係者",
+        "交通",
+        "宿泊業",
+        "旅行業",
+        "自治体・DMO",
+        "観光施設",
+        "一般の方"
+      ],
+      "deadline": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo05_00108.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "令和８年度「 質の高い消費と投資を呼び込むためのデジタルノマド誘客促進事業(調査事業)」採択結果のお知らせ",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
+    {
+      "id": "kobo05_00106",
+      "published": "2026年5月28日",
+      "status_raw": "採択結果",
+      "status": "result",
+      "title": "【令和7年度補正】観光需要分散のための地域観光資源のコンテンツ化促進事業（一次公募）の採択結果",
+      "categories": [
+        "その他観光関係者",
+        "交通",
+        "宿泊業",
+        "旅行業",
+        "自治体・DMO",
+        "観光施設"
+      ],
+      "deadline": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo05_00106.html",
+      "budget_year": "R7補正",
+      "budget_amount": "49億円",
+      "rate": "—",
+      "target": "—",
+      "summary": "【令和7年度補正】観光需要分散のための地域観光資源のコンテンツ化促進事業（一次公募）の採択結果",
+      "note": "オーバーツーリズム解消目的",
+      "highlight": false,
+      "is_new": false
+    },
     {
       "id": "kobo04_00060",
       "published": "2026年5月27日",
