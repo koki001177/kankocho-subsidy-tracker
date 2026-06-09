@@ -1,7 +1,54 @@
 {
-  "last_updated": "2026-06-08T02:46:26",
+  "last_updated": "2026-06-09T02:13:33",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
+    {
+      "id": "kobo08_00063",
+      "published": "2026年6月9日",
+      "status_raw": "募集中",
+      "status": "open",
+      "title": "令和８年度「地域一体となった持続可能な観光地経営推進事業」の地域公募開始",
+      "categories": [
+        "その他観光関係者",
+        "自治体・DMO"
+      ],
+      "deadline": "2026年7月7日",
+      "url": "https://www.mlit.go.jp/kankocho/kobo08_00063.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "令和８年度「地域一体となった持続可能な観光地経営推進事業」の地域公募開始",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
+    {
+      "id": "kobo06_00058",
+      "published": "2026年6月9日",
+      "status_raw": "募集中",
+      "status": "open",
+      "title": "令和８年度実施「ユニバーサルツーリズムに資するデザイン開発等実証事業」の公募を開始します。",
+      "categories": [
+        "その他観光関係者",
+        "交通",
+        "宿泊業",
+        "旅行業",
+        "自治体・DMO",
+        "観光施設",
+        "一般の方"
+      ],
+      "deadline": "2026年6月19日",
+      "url": "https://www.mlit.go.jp/kankocho/kobo06_00058.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "令和８年度実施「ユニバーサルツーリズムに資するデザイン開発等実証事業」の公募を開始します。",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
     {
       "id": "kobo08_00057",
       "published": "2026年6月5日",
@@ -25,32 +72,6 @@
       "summary": "令和８年度「オーバーツーリズムの未然防止・抑制をはじめとする観光地の面的受入環境整備促進事業」二次公募開始及び公募説明会の開催",
       "note": "前年比8.3倍 / 事前着手届出4/17 12:00まで",
       "highlight": true,
-      "is_new": false
-    },
-    {
-      "id": "kobo06_00058",
-      "published": "2026年6月4日",
-      "status_raw": "募集中",
-      "status": "open",
-      "title": "令和８年度実施「ユニバーサルツーリズムに資するデザイン開発等実証事業」の公募を開始します。",
-      "categories": [
-        "その他観光関係者",
-        "交通",
-        "宿泊業",
-        "旅行業",
-        "自治体・DMO",
-        "観光施設",
-        "一般の方"
-      ],
-      "deadline": "2026年6月19日",
-      "url": "https://www.mlit.go.jp/kankocho/kobo06_00058.html",
-      "budget_year": "",
-      "budget_amount": "—",
-      "rate": "—",
-      "target": "—",
-      "summary": "令和８年度実施「ユニバーサルツーリズムに資するデザイン開発等実証事業」の公募を開始します。",
-      "note": "",
-      "highlight": false,
       "is_new": false
     },
     {
@@ -601,8 +622,8 @@
     {
       "id": "kobo08_00059",
       "published": "2026年4月14日",
-      "status_raw": "募集中",
-      "status": "open",
+      "status_raw": "募集終了",
+      "status": "closed",
       "title": "「多様な食習慣や文化的慣習を持つ訪日外国人旅行者の受入環境整備に向けたモデル事業」の公募を開始します！",
       "categories": [
         "その他観光関係者",
