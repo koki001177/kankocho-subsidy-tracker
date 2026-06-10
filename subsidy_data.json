@@ -1,7 +1,48 @@
 {
-  "last_updated": "2026-06-09T02:13:33",
+  "last_updated": "2026-06-10T02:37:06",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
+    {
+      "id": "kobo06_00063",
+      "published": "2026年6月10日",
+      "status_raw": "募集中",
+      "status": "open",
+      "title": "令和８年度「海外教育旅行の促進及びプログラムの付加価値向上事業」の公募を開始します",
+      "categories": [
+        "その他観光関係者",
+        "旅行業"
+      ],
+      "deadline": "2026年7月17日",
+      "url": "https://www.mlit.go.jp/kankocho/kobo06_00063.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "令和８年度「海外教育旅行の促進及びプログラムの付加価値向上事業」の公募を開始します",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
+    {
+      "id": "kobo04_00061",
+      "published": "2026年6月10日",
+      "status_raw": "募集中",
+      "status": "open",
+      "title": "「令和８年度DMO総合支援（広域連携観光促進）のための専門家派遣事業」の公募を開始します。",
+      "categories": [
+        "自治体・DMO"
+      ],
+      "deadline": "2027年2月5日",
+      "url": "https://www.mlit.go.jp/kankocho/kobo04_00061.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "「令和８年度DMO総合支援（広域連携観光促進）のための専門家派遣事業」の公募を開始します。",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
     {
       "id": "kobo08_00063",
       "published": "2026年6月9日",
