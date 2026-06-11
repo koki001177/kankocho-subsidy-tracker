@@ -1,7 +1,79 @@
 {
-  "last_updated": "2026-06-10T02:37:06",
+  "last_updated": "2026-06-11T02:46:42",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
+    {
+      "id": "kobo05_00110",
+      "published": "2026年6月10日",
+      "status_raw": "採択結果",
+      "status": "result",
+      "title": "令和８年度「地域の観光資源充実のための環境整備推進事業（地域資源の観光活用に係る調査）」採択結果のお知らせ",
+      "categories": [
+        "その他観光関係者",
+        "宿泊業",
+        "自治体・DMO",
+        "一般の方"
+      ],
+      "deadline": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo05_00110.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "令和８年度「地域の観光資源充実のための環境整備推進事業（地域資源の観光活用に係る調査）」採択結果のお知らせ",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
+    {
+      "id": "kobo05_00109",
+      "published": "2026年6月10日",
+      "status_raw": "採択結果",
+      "status": "result",
+      "title": "令和８年度「観光振興事業費補助金（地域資源を活用した観光まちづくり推進事業）」採択結果のお知らせ",
+      "categories": [
+        "その他観光関係者",
+        "宿泊業",
+        "自治体・DMO",
+        "観光施設"
+      ],
+      "deadline": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo05_00109.html",
+      "budget_year": "令和8年度",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "令和８年度「観光振興事業費補助金（地域資源を活用した観光まちづくり推進事業）」採択結果のお知らせ",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
+    {
+      "id": "kobo06_00058",
+      "published": "2026年6月10日",
+      "status_raw": "募集中",
+      "status": "open",
+      "title": "令和８年度実施「ユニバーサルツーリズムに資するデザイン開発等実証事業」の公募を開始します。",
+      "categories": [
+        "その他観光関係者",
+        "交通",
+        "宿泊業",
+        "旅行業",
+        "自治体・DMO",
+        "観光施設",
+        "一般の方"
+      ],
+      "deadline": "2026年6月19日",
+      "url": "https://www.mlit.go.jp/kankocho/kobo06_00058.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "令和８年度実施「ユニバーサルツーリズムに資するデザイン開発等実証事業」の公募を開始します。",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
     {
       "id": "kobo06_00063",
       "published": "2026年6月10日",
@@ -28,7 +100,7 @@
       "published": "2026年6月10日",
       "status_raw": "募集中",
       "status": "open",
-      "title": "「令和８年度DMO総合支援（広域連携観光促進）のための専門家派遣事業」の公募を開始します。",
+      "title": "「令和８年度DMO総合支援（広域連携観光促進）のための専門家派遣事業」を開始します。",
       "categories": [
         "自治体・DMO"
       ],
@@ -38,7 +110,7 @@
       "budget_amount": "—",
       "rate": "—",
       "target": "—",
-      "summary": "「令和８年度DMO総合支援（広域連携観光促進）のための専門家派遣事業」の公募を開始します。",
+      "summary": "「令和８年度DMO総合支援（広域連携観光促進）のための専門家派遣事業」を開始します。",
       "note": "",
       "highlight": false,
       "is_new": false
@@ -60,32 +132,6 @@
       "rate": "—",
       "target": "—",
       "summary": "令和８年度「地域一体となった持続可能な観光地経営推進事業」の地域公募開始",
-      "note": "",
-      "highlight": false,
-      "is_new": false
-    },
-    {
-      "id": "kobo06_00058",
-      "published": "2026年6月9日",
-      "status_raw": "募集中",
-      "status": "open",
-      "title": "令和８年度実施「ユニバーサルツーリズムに資するデザイン開発等実証事業」の公募を開始します。",
-      "categories": [
-        "その他観光関係者",
-        "交通",
-        "宿泊業",
-        "旅行業",
-        "自治体・DMO",
-        "観光施設",
-        "一般の方"
-      ],
-      "deadline": "2026年6月19日",
-      "url": "https://www.mlit.go.jp/kankocho/kobo06_00058.html",
-      "budget_year": "",
-      "budget_amount": "—",
-      "rate": "—",
-      "target": "—",
-      "summary": "令和８年度実施「ユニバーサルツーリズムに資するデザイン開発等実証事業」の公募を開始します。",
       "note": "",
       "highlight": false,
       "is_new": false
