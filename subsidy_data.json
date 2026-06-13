@@ -1,7 +1,78 @@
 {
-  "last_updated": "2026-06-12T02:43:11",
+  "last_updated": "2026-06-13T02:35:37",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
+    {
+      "id": "kobo06_00068",
+      "published": "2026年6月12日",
+      "status_raw": "募集中",
+      "status": "open",
+      "title": "令和8年度「地方空港を活用した相互交流の促進事業」の公募開始のお知らせ",
+      "categories": [
+        "その他観光関係者",
+        "交通",
+        "自治体・DMO"
+      ],
+      "deadline": "2026年7月13日",
+      "url": "https://www.mlit.go.jp/kankocho/kobo06_00068.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "令和8年度「地方空港を活用した相互交流の促進事業」の公募開始のお知らせ",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
+    {
+      "id": "kobo08_00061",
+      "published": "2026年6月12日",
+      "status_raw": "募集中",
+      "status": "open",
+      "title": "令和８年度「観光客によるマナー違反・問題行為の抑制・未然防止に向けた啓発に関する実証事業」の公募を開始します",
+      "categories": [
+        "その他観光関係者",
+        "交通",
+        "宿泊業",
+        "旅行業",
+        "観光施設"
+      ],
+      "deadline": "2026年6月22日",
+      "url": "https://www.mlit.go.jp/kankocho/kobo08_00061.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "令和８年度「観光客によるマナー違反・問題行為の抑制・未然防止に向けた啓発に関する実証事業」の公募を開始します",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
+    {
+      "id": "kobo06_00067",
+      "published": "2026年6月12日",
+      "status_raw": "採択結果",
+      "status": "result",
+      "title": "【令和7年度補正予算】観光地経営の高度化事業（人材育成補助金）採択結果のお知らせ（一次公募）",
+      "categories": [
+        "その他観光関係者",
+        "交通",
+        "宿泊業",
+        "旅行業",
+        "自治体・DMO",
+        "観光施設"
+      ],
+      "deadline": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo06_00067.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "【令和7年度補正予算】観光地経営の高度化事業（人材育成補助金）採択結果のお知らせ（一次公募）",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
     {
       "id": "kobo05_00112",
       "published": "2026年6月11日",
@@ -280,30 +351,6 @@
       "target": "—",
       "summary": "【令和7年度補正】「観光需要分散のための地域観光資源のコンテンツ化促進事業」の二次公募開始のお知らせ",
       "note": "オーバーツーリズム解消目的",
-      "highlight": false,
-      "is_new": false
-    },
-    {
-      "id": "kobo08_00061",
-      "published": "2026年5月29日",
-      "status_raw": "募集中",
-      "status": "open",
-      "title": "令和８年度「観光客によるマナー違反・問題行為の抑制・未然防止に向けた啓発に関する実証事業」の公募を開始します",
-      "categories": [
-        "その他観光関係者",
-        "交通",
-        "宿泊業",
-        "旅行業",
-        "観光施設"
-      ],
-      "deadline": "2026年6月22日",
-      "url": "https://www.mlit.go.jp/kankocho/kobo08_00061.html",
-      "budget_year": "",
-      "budget_amount": "—",
-      "rate": "—",
-      "target": "—",
-      "summary": "令和８年度「観光客によるマナー違反・問題行為の抑制・未然防止に向けた啓発に関する実証事業」の公募を開始します",
-      "note": "",
       "highlight": false,
       "is_new": false
     },
