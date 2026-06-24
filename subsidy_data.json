@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T02:28:38",
+  "last_updated": "2026-06-24T02:29:41",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
     {
@@ -27,8 +27,8 @@
     {
       "id": "kobo08_00061",
       "published": "2026年6月12日",
-      "status_raw": "募集中",
-      "status": "open",
+      "status_raw": "募集終了",
+      "status": "closed",
       "title": "令和８年度「観光客によるマナー違反・問題行為の抑制・未然防止に向けた啓発に関する実証事業」の公募を開始します",
       "categories": [
         "その他観光関係者",
@@ -144,8 +144,8 @@
     {
       "id": "kobo06_00058",
       "published": "2026年6月10日",
-      "status_raw": "募集中",
-      "status": "open",
+      "status_raw": "募集終了",
+      "status": "closed",
       "title": "令和８年度実施「ユニバーサルツーリズムに資するデザイン開発等実証事業」の公募を開始します。",
       "categories": [
         "その他観光関係者",
@@ -332,8 +332,8 @@
     {
       "id": "kobo05_00107",
       "published": "2026年5月29日",
-      "status_raw": "募集中",
-      "status": "open",
+      "status_raw": "募集終了",
+      "status": "closed",
       "title": "【令和7年度補正】「観光需要分散のための地域観光資源のコンテンツ化促進事業」の二次公募開始のお知らせ",
       "categories": [
         "その他観光関係者",
