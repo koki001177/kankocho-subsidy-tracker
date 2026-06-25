@@ -1,7 +1,56 @@
 {
-  "last_updated": "2026-06-24T02:29:41",
+  "last_updated": "2026-06-25T02:31:34",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
+    {
+      "id": "kobo05_00114",
+      "published": "2026年6月25日",
+      "status_raw": "採択結果",
+      "status": "result",
+      "title": "令和８年度「質の高い消費と投資を呼び込むためのデジタルノマド誘客促進事業(補助事業)」採択結果のお知らせ",
+      "categories": [
+        "その他観光関係者",
+        "交通",
+        "宿泊業",
+        "旅行業",
+        "自治体・DMO",
+        "観光施設",
+        "一般の方"
+      ],
+      "deadline": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo05_00114.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "令和８年度「質の高い消費と投資を呼び込むためのデジタルノマド誘客促進事業(補助事業)」採択結果のお知らせ",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
+    {
+      "id": "kobo06_00078",
+      "published": "2026年6月25日",
+      "status_raw": "募集中",
+      "status": "open",
+      "title": "「観光地におけるワーキングホリデー制度を活用したモデル実証実験」に係る協力地域を公募します",
+      "categories": [
+        "その他観光関係者",
+        "宿泊業",
+        "自治体・DMO",
+        "観光施設"
+      ],
+      "deadline": "2026年8月3日",
+      "url": "https://www.mlit.go.jp/kankocho/kobo06_00078.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "「観光地におけるワーキングホリデー制度を活用したモデル実証実験」に係る協力地域を公募します",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
     {
       "id": "kobo06_00068",
       "published": "2026年6月12日",
