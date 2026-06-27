@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-06-26T02:33:41",
+  "last_updated": "2026-06-27T02:27:02",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
+    {
+      "id": "kobo04_00067",
+      "published": "2026年6月26日",
+      "status_raw": "採択結果",
+      "status": "result",
+      "title": "令和８年度「ブルーツーリズム推進支援事業」における採択結果",
+      "categories": [],
+      "deadline": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo04_00067.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "令和８年度「ブルーツーリズム推進支援事業」における採択結果",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
+    {
+      "id": "kobo04_00068",
+      "published": "2026年6月26日",
+      "status_raw": "採択結果",
+      "status": "result",
+      "title": "「DMO総合支援事業」における採択結果の公表",
+      "categories": [
+        "自治体・DMO"
+      ],
+      "deadline": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo04_00068.html",
+      "budget_year": "令和8年度",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "「DMO総合支援事業」における採択結果の公表",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
     {
       "id": "kobo05_00114",
       "published": "2026年6月25日",
