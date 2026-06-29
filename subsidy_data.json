@@ -1,7 +1,28 @@
 {
-  "last_updated": "2026-06-28T02:39:17",
+  "last_updated": "2026-06-29T02:39:50",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
+    {
+      "id": "kobo08_00063",
+      "published": "2026年6月29日",
+      "status_raw": "募集中",
+      "status": "open",
+      "title": "令和８年度「地域一体となった持続可能な観光地経営推進事業」の地域公募開始（申請書提出先を掲載）",
+      "categories": [
+        "その他観光関係者",
+        "自治体・DMO"
+      ],
+      "deadline": "2026年7月7日",
+      "url": "https://www.mlit.go.jp/kankocho/kobo08_00063.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "令和８年度「地域一体となった持続可能な観光地経営推進事業」の地域公募開始（申請書提出先を掲載）",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
     {
       "id": "kobo04_00067",
       "published": "2026年6月26日",
@@ -291,27 +312,6 @@
       "rate": "—",
       "target": "—",
       "summary": "「令和８年度DMO総合支援（広域連携観光促進）のための専門家派遣事業」を開始します。",
-      "note": "",
-      "highlight": false,
-      "is_new": false
-    },
-    {
-      "id": "kobo08_00063",
-      "published": "2026年6月9日",
-      "status_raw": "募集中",
-      "status": "open",
-      "title": "令和８年度「地域一体となった持続可能な観光地経営推進事業」の地域公募開始",
-      "categories": [
-        "その他観光関係者",
-        "自治体・DMO"
-      ],
-      "deadline": "2026年7月7日",
-      "url": "https://www.mlit.go.jp/kankocho/kobo08_00063.html",
-      "budget_year": "",
-      "budget_amount": "—",
-      "rate": "—",
-      "target": "—",
-      "summary": "令和８年度「地域一体となった持続可能な観光地経営推進事業」の地域公募開始",
       "note": "",
       "highlight": false,
       "is_new": false
