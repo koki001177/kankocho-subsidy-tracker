@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-06-30T02:34:18",
+  "last_updated": "2026-07-01T02:40:16",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
+    {
+      "id": "kobo06_00082",
+      "published": "2026年6月30日",
+      "status_raw": "採択結果",
+      "status": "result",
+      "title": "「観光地・観光産業における省力化投資補助事業」における特定結果のお知らせ",
+      "categories": [
+        "宿泊業"
+      ],
+      "deadline": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo06_00082.html",
+      "budget_year": "R7補正",
+      "budget_amount": "—",
+      "rate": "前年から上限倍増",
+      "target": "宿泊業",
+      "summary": "「観光地・観光産業における省力化投資補助事業」における特定結果のお知らせ",
+      "note": "人手不足対応",
+      "highlight": false,
+      "is_new": false
+    },
     {
       "id": "kobo06_00081",
       "published": "2026年6月30日",
