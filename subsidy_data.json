@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-07-01T02:40:16",
+  "last_updated": "2026-07-02T02:29:45",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
+    {
+      "id": "kobo06_00072",
+      "published": "2026年7月1日",
+      "status_raw": "募集中",
+      "status": "open",
+      "title": "令和８年度予算「廃屋撤去・再生による地方温泉地等のまちづくり支援事業」の事業者公募開始のお知らせ",
+      "categories": [
+        "その他観光関係者",
+        "宿泊業",
+        "旅行業",
+        "自治体・DMO",
+        "観光施設"
+      ],
+      "deadline": "2027年2月26日",
+      "url": "https://www.mlit.go.jp/kankocho/kobo06_00072.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "令和８年度予算「廃屋撤去・再生による地方温泉地等のまちづくり支援事業」の事業者公募開始のお知らせ",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
     {
       "id": "kobo06_00082",
       "published": "2026年6月30日",
@@ -437,8 +461,8 @@
     {
       "id": "kobo06_00060",
       "published": "2026年6月1日",
-      "status_raw": "募集中",
-      "status": "open",
+      "status_raw": "募集終了",
+      "status": "closed",
       "title": "【令和7年度補正予算】観光地経営の高度化事業（人材育成補助金）の二次公募を開始します",
       "categories": [
         "その他観光関係者",
@@ -709,8 +733,8 @@
     {
       "id": "kobo09_00047",
       "published": "2026年5月12日",
-      "status_raw": "募集中",
-      "status": "open",
+      "status_raw": "募集終了",
+      "status": "closed",
       "title": "令和８年度「コンベンションビューロー等のMICE誘致体制強化事業」の公募を開始します",
       "categories": [
         "その他観光関係者",
@@ -733,8 +757,8 @@
     {
       "id": "kobo09_00045",
       "published": "2026年5月11日",
-      "status_raw": "募集中",
-      "status": "open",
+      "status_raw": "募集終了",
+      "status": "closed",
       "title": "令和８年度「MICE施設の受入環境整備事業」の公募を開始します",
       "categories": [
         "その他観光関係者",
