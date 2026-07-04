@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-07-03T02:05:12",
+  "last_updated": "2026-07-04T02:02:57",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
+    {
+      "id": "kobo04_00072",
+      "published": "2026年7月3日",
+      "status_raw": "募集中",
+      "status": "open",
+      "title": "「DMO総合支援事業（DMO体制整備・機能強化事業）」の二次公募を開始します。",
+      "categories": [
+        "自治体・DMO"
+      ],
+      "deadline": "2026年7月27日",
+      "url": "https://www.mlit.go.jp/kankocho/kobo04_00072.html",
+      "budget_year": "令和8年度",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "「DMO総合支援事業（DMO体制整備・機能強化事業）」の二次公募を開始します。",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
     {
       "id": "kobo06_00072",
       "published": "2026年7月1日",
