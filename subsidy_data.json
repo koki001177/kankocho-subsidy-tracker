@@ -1,7 +1,50 @@
 {
-  "last_updated": "2026-07-09T02:05:37",
+  "last_updated": "2026-07-10T02:04:18",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
+    {
+      "id": "kobo04_00074",
+      "published": "2026年7月10日",
+      "status_raw": "採択結果",
+      "status": "result",
+      "title": "「万博レガシー事業」における採択結果の公表",
+      "categories": [],
+      "deadline": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo04_00074.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "「万博レガシー事業」における採択結果の公表",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
+    {
+      "id": "kobo06_00085",
+      "published": "2026年7月10日",
+      "status_raw": "募集中",
+      "status": "open",
+      "title": "【令和7年度補正予算】観光地経営の高度化事業（人材育成補助金）の三次公募を開始します",
+      "categories": [
+        "その他観光関係者",
+        "交通",
+        "宿泊業",
+        "旅行業",
+        "自治体・DMO",
+        "観光施設"
+      ],
+      "deadline": "2026年10月30日",
+      "url": "https://www.mlit.go.jp/kankocho/kobo06_00085.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "【令和7年度補正予算】観光地経営の高度化事業（人材育成補助金）の三次公募を開始します",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
     {
       "id": "kobo06_00076",
       "published": "2026年7月8日",
