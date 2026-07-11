@@ -1,7 +1,52 @@
 {
-  "last_updated": "2026-07-10T02:04:18",
+  "last_updated": "2026-07-11T01:50:54",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
+    {
+      "id": "kobo08_00067",
+      "published": "2026年7月10日",
+      "status_raw": "採択結果",
+      "status": "result",
+      "title": "「多様な食習慣や文化的慣習を持つ訪日外国人旅行者の受入環境整備に向けたモデル事業」における採択結果のお知らせ",
+      "categories": [
+        "その他観光関係者",
+        "自治体・DMO"
+      ],
+      "deadline": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo08_00067.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "「多様な食習慣や文化的慣習を持つ訪日外国人旅行者の受入環境整備に向けたモデル事業」における採択結果のお知らせ",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
+    {
+      "id": "kobo08_00064",
+      "published": "2026年7月10日",
+      "status_raw": "採択結果",
+      "status": "result",
+      "title": "令和８年度「オーバーツーリズムの未然防止・抑制をはじめとする観光地の面的受入環境整備促進事業」の一次公募採択結果のお知らせ",
+      "categories": [
+        "その他観光関係者",
+        "交通",
+        "自治体・DMO",
+        "観光施設",
+        "一般の方"
+      ],
+      "deadline": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo08_00064.html",
+      "budget_year": "令和8年度",
+      "budget_amount": "100億円",
+      "rate": "上限2億円(2/3)、5,000万円(1/2)",
+      "target": "自治体・DMO・観光事業者等",
+      "summary": "令和８年度「オーバーツーリズムの未然防止・抑制をはじめとする観光地の面的受入環境整備促進事業」の一次公募採択結果のお知らせ",
+      "note": "前年比8.3倍 / 事前着手届出4/17 12:00まで",
+      "highlight": true,
+      "is_new": false
+    },
     {
       "id": "kobo04_00074",
       "published": "2026年7月10日",
