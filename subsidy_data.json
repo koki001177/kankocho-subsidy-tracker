@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T01:55:58",
+  "last_updated": "2026-07-14T01:43:08",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
     {
@@ -359,8 +359,8 @@
     {
       "id": "kobo06_00068",
       "published": "2026年6月12日",
-      "status_raw": "募集中",
-      "status": "open",
+      "status_raw": "募集終了",
+      "status": "closed",
       "title": "令和8年度「地方空港を活用した相互交流の促進事業」の公募開始のお知らせ",
       "categories": [
         "その他観光関係者",
