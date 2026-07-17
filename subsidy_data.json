@@ -1,7 +1,28 @@
 {
-  "last_updated": "2026-07-16T01:49:12",
+  "last_updated": "2026-07-17T01:53:06",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
+    {
+      "id": "kobo04_00067",
+      "published": "2026年7月16日",
+      "status_raw": "採択結果",
+      "status": "result",
+      "title": "令和８年度「ブルーツーリズム推進支援事業」における採択結果",
+      "categories": [
+        "その他観光関係者",
+        "自治体・DMO"
+      ],
+      "deadline": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo04_00067.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "令和８年度「ブルーツーリズム推進支援事業」における採択結果",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
     {
       "id": "kobo06_00086",
       "published": "2026年7月16日",
@@ -289,24 +310,6 @@
       "rate": "—",
       "target": "—",
       "summary": "令和８年度「地域一体となった持続可能な観光地経営推進事業」の地域公募開始（申請書提出先を掲載）",
-      "note": "",
-      "highlight": false,
-      "is_new": false
-    },
-    {
-      "id": "kobo04_00067",
-      "published": "2026年6月26日",
-      "status_raw": "採択結果",
-      "status": "result",
-      "title": "令和８年度「ブルーツーリズム推進支援事業」における採択結果",
-      "categories": [],
-      "deadline": "",
-      "url": "https://www.mlit.go.jp/kankocho/kobo04_00067.html",
-      "budget_year": "",
-      "budget_amount": "—",
-      "rate": "—",
-      "target": "—",
-      "summary": "令和８年度「ブルーツーリズム推進支援事業」における採択結果",
       "note": "",
       "highlight": false,
       "is_new": false
