@@ -1,7 +1,32 @@
 {
-  "last_updated": "2026-07-21T01:51:17",
+  "last_updated": "2026-07-22T01:50:13",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
+    {
+      "id": "kobo13_00001",
+      "published": "2026年7月21日",
+      "status_raw": "採択結果",
+      "status": "result",
+      "title": "【令和7年度補正予算】観光地経営の高度化事業（人材育成補助金）採択結果のお知らせ（二次公募）",
+      "categories": [
+        "その他観光関係者",
+        "交通",
+        "宿泊業",
+        "旅行業",
+        "自治体・DMO",
+        "観光施設"
+      ],
+      "deadline": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo13_00001.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "【令和7年度補正予算】観光地経営の高度化事業（人材育成補助金）採択結果のお知らせ（二次公募）",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
     {
       "id": "kobo04_00067",
       "published": "2026年7月16日",
@@ -551,8 +576,8 @@
     {
       "id": "kobo06_00063",
       "published": "2026年6月10日",
-      "status_raw": "募集中",
-      "status": "open",
+      "status_raw": "募集終了",
+      "status": "closed",
       "title": "令和８年度「海外教育旅行の促進及びプログラムの付加価値向上事業」の公募を開始します",
       "categories": [
         "その他観光関係者",
