@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-07-27T02:04:25",
+  "last_updated": "2026-07-28T01:46:06",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
+    {
+      "id": "kobo13_00004",
+      "published": "2026年7月24日",
+      "status_raw": "募集中",
+      "status": "open",
+      "title": "令和8年度「地方空港を活用した相互交流の促進事業」の二次公募開始のお知らせ",
+      "categories": [
+        "その他観光関係者",
+        "交通",
+        "自治体・DMO"
+      ],
+      "deadline": "2026年8月28日",
+      "url": "https://www.mlit.go.jp/kankocho/kobo13_00004.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "令和8年度「地方空港を活用した相互交流の促進事業」の二次公募開始のお知らせ",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
     {
       "id": "kobo13_00001",
       "published": "2026年7月21日",
@@ -208,8 +230,8 @@
     {
       "id": "kobo04_00072",
       "published": "2026年7月3日",
-      "status_raw": "募集中",
-      "status": "open",
+      "status_raw": "募集終了",
+      "status": "closed",
       "title": "「DMO総合支援事業（DMO体制整備・機能強化事業）」の二次公募を開始します。",
       "categories": [
         "自治体・DMO"
@@ -811,32 +833,6 @@
       "rate": "—",
       "target": "—",
       "summary": "観光地域づくり法人（登録DMO第21弾）の募集を開始します",
-      "note": "",
-      "highlight": false,
-      "is_new": false
-    },
-    {
-      "id": "kobo06_00057",
-      "published": "2026年5月20日",
-      "status_raw": "募集中",
-      "status": "open",
-      "title": "令和８年度実施「ユニバーサルツーリズムに資するデザイン開発等実証事業」公募説明会の開催および公募について",
-      "categories": [
-        "その他観光関係者",
-        "交通",
-        "宿泊業",
-        "旅行業",
-        "自治体・DMO",
-        "観光施設",
-        "一般の方"
-      ],
-      "deadline": "",
-      "url": "https://www.mlit.go.jp/kankocho/kobo06_00057.html",
-      "budget_year": "",
-      "budget_amount": "—",
-      "rate": "—",
-      "target": "—",
-      "summary": "令和８年度実施「ユニバーサルツーリズムに資するデザイン開発等実証事業」公募説明会の開催および公募について",
       "note": "",
       "highlight": false,
       "is_new": false
