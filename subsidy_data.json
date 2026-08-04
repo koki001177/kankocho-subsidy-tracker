@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T01:58:05",
+  "last_updated": "2026-08-04T01:44:20",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
     {
@@ -639,8 +639,8 @@
     {
       "id": "kobo09_00049",
       "published": "2026年6月2日",
-      "status_raw": "募集中",
-      "status": "open",
+      "status_raw": "募集終了",
+      "status": "closed",
       "title": "令和８年度「地域のＭＩＣＥ誘致力強化促進事業」の二次公募開始のお知らせ",
       "categories": [
         "交通",
@@ -815,8 +815,8 @@
     {
       "id": "kobo04_00060",
       "published": "2026年5月27日",
-      "status_raw": "募集中",
-      "status": "open",
+      "status_raw": "募集終了",
+      "status": "closed",
       "title": "観光地域づくり法人（登録DMO第21弾）の募集を開始します",
       "categories": [
         "その他観光関係者",
