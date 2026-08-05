@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T01:44:20",
+  "last_updated": "2026-08-05T01:46:20",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
     {
@@ -410,8 +410,8 @@
     {
       "id": "kobo06_00078",
       "published": "2026年6月25日",
-      "status_raw": "募集中",
-      "status": "open",
+      "status_raw": "募集終了",
+      "status": "closed",
       "title": "「観光地におけるワーキングホリデー制度を活用したモデル実証実験」に係る協力地域を公募します",
       "categories": [
         "その他観光関係者",
