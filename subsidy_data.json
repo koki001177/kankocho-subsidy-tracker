@@ -1,7 +1,28 @@
 {
-  "last_updated": "2026-08-09T01:01:41",
+  "last_updated": "2026-08-10T01:03:27",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
+    {
+      "id": "kobo08_00068",
+      "published": "2026年8月10日",
+      "status_raw": "採択結果",
+      "status": "result",
+      "title": "令和８年度「地域一体となった持続可能な観光地経営推進事業」における採択結果のお知らせ",
+      "categories": [
+        "その他観光関係者",
+        "自治体・DMO"
+      ],
+      "deadline": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo08_00068.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "令和８年度「地域一体となった持続可能な観光地経営推進事業」における採択結果のお知らせ",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
     {
       "id": "kobo13_00004",
       "published": "2026年7月24日",
@@ -862,8 +883,8 @@
     {
       "id": "kobo05_00104",
       "published": "2026年5月15日",
-      "status_raw": "募集中",
-      "status": "open",
+      "status_raw": "募集終了",
+      "status": "closed",
       "title": "「観光需要分散のための地域観光資源のコンテンツ化促進事業」の二次公募に向けた事業説明会を実施します",
       "categories": [
         "その他観光関係者",
