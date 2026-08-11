@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-08-10T01:03:27",
+  "last_updated": "2026-08-11T01:02:40",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
+    {
+      "id": "kobo05_00119",
+      "published": "2026年8月10日",
+      "status_raw": "採択結果",
+      "status": "result",
+      "title": "【令和7年度補正】観光需要分散のための地域観光資源のコンテンツ化促進事業（二次公募）の採択結果",
+      "categories": [],
+      "deadline": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo05_00119.html",
+      "budget_year": "R7補正",
+      "budget_amount": "49億円",
+      "rate": "—",
+      "target": "—",
+      "summary": "【令和7年度補正】観光需要分散のための地域観光資源のコンテンツ化促進事業（二次公募）の採択結果",
+      "note": "オーバーツーリズム解消目的",
+      "highlight": false,
+      "is_new": false
+    },
     {
       "id": "kobo08_00068",
       "published": "2026年8月10日",
