@@ -1,7 +1,49 @@
 {
-  "last_updated": "2026-08-26T00:44:53",
+  "last_updated": "2026-08-27T05:55:20",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
+    {
+      "id": "kobo06_00087",
+      "published": "2026年8月27日",
+      "status_raw": "募集中",
+      "status": "open",
+      "title": "令和７年度補正予算「地域一体となった観光産業の効率化支援事業」三次公募開始のお知らせ",
+      "categories": [
+        "その他観光関係者",
+        "交通",
+        "宿泊業",
+        "自治体・DMO",
+        "観光施設"
+      ],
+      "deadline": "2026年9月29日",
+      "url": "https://www.mlit.go.jp/kankocho/kobo06_00087.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "令和７年度補正予算「地域一体となった観光産業の効率化支援事業」三次公募開始のお知らせ",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
+    {
+      "id": "kobo13_00005",
+      "published": "2026年8月26日",
+      "status_raw": "採択結果",
+      "status": "result",
+      "title": "令和8年度「地方空港を活用した相互交流の促進事業」（一次公募）おける採択結果の公表",
+      "categories": [],
+      "deadline": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo13_00005.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "令和8年度「地方空港を活用した相互交流の促進事業」（一次公募）おける採択結果の公表",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
     {
       "id": "kobo06_00076",
       "published": "2026年8月24日",
