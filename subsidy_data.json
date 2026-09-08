@@ -1,7 +1,52 @@
 {
-  "last_updated": "2026-09-07T02:01:40",
+  "last_updated": "2026-09-08T02:13:13",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
+    {
+      "id": "kobo04_00077",
+      "published": "2026年9月7日",
+      "status_raw": "採択結果",
+      "status": "result",
+      "title": "「DMO総合支援事業（DMO体制整備・機能強化事業）」の二次公募における採択結果の公表",
+      "categories": [
+        "自治体・DMO"
+      ],
+      "deadline": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo04_00077.html",
+      "budget_year": "令和8年度",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "「DMO総合支援事業（DMO体制整備・機能強化事業）」の二次公募における採択結果の公表",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
+    {
+      "id": "kobo13_00006",
+      "published": "2026年9月7日",
+      "status_raw": "採択結果",
+      "status": "result",
+      "title": "【令和7年度補正予算】観光地経営の高度化事業（人材育成補助金）採択結果のお知らせ（三次公募）",
+      "categories": [
+        "その他観光関係者",
+        "交通",
+        "宿泊業",
+        "旅行業",
+        "自治体・DMO",
+        "観光施設"
+      ],
+      "deadline": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo13_00006.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "【令和7年度補正予算】観光地経営の高度化事業（人材育成補助金）採択結果のお知らせ（三次公募）",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
     {
       "id": "kobo09_00053",
       "published": "2026年9月1日",
