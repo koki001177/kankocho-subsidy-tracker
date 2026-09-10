@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-09-09T02:16:53",
+  "last_updated": "2026-09-10T02:15:29",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
+    {
+      "id": "kobo08_00069",
+      "published": "2026年9月9日",
+      "status_raw": "採択結果",
+      "status": "result",
+      "title": "令和８年度「オーバーツーリズムの未然防止・抑制をはじめとする観光地の面的受入環境整備促進事業」の二次公募採択結果のお知らせ",
+      "categories": [],
+      "deadline": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo08_00069.html",
+      "budget_year": "令和8年度",
+      "budget_amount": "100億円",
+      "rate": "上限2億円(2/3)、5,000万円(1/2)",
+      "target": "自治体・DMO・観光事業者等",
+      "summary": "令和８年度「オーバーツーリズムの未然防止・抑制をはじめとする観光地の面的受入環境整備促進事業」の二次公募採択結果のお知らせ",
+      "note": "前年比8.3倍 / 事前着手届出4/17 12:00まで",
+      "highlight": true,
+      "is_new": false
+    },
     {
       "id": "kobo04_00077",
       "published": "2026年9月7日",
