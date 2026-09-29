@@ -1,7 +1,28 @@
 {
-  "last_updated": "2026-09-28T02:43:38",
+  "last_updated": "2026-09-29T03:25:43",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
+    {
+      "id": "kobo04_00080",
+      "published": "2026年9月28日",
+      "status_raw": "採択結果",
+      "status": "result",
+      "title": "令和８年度「ブルーツーリズム推進支援事業」二次公募における採択結果",
+      "categories": [
+        "その他観光関係者",
+        "自治体・DMO"
+      ],
+      "deadline": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo04_00080.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "令和８年度「ブルーツーリズム推進支援事業」二次公募における採択結果",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
     {
       "id": "kobo13_00007",
       "published": "2026年9月17日",
@@ -184,30 +205,6 @@
       "rate": "—",
       "target": "—",
       "summary": "令和８年度「ＭＩＣＥ施設の受入環境整備事業」の二次公募を開始します",
-      "note": "",
-      "highlight": false,
-      "is_new": false
-    },
-    {
-      "id": "kobo06_00087",
-      "published": "2026年8月27日",
-      "status_raw": "募集中",
-      "status": "open",
-      "title": "令和７年度補正予算「地域一体となった観光産業の効率化支援事業」三次公募開始のお知らせ",
-      "categories": [
-        "その他観光関係者",
-        "交通",
-        "宿泊業",
-        "自治体・DMO",
-        "観光施設"
-      ],
-      "deadline": "2026年9月29日",
-      "url": "https://www.mlit.go.jp/kankocho/kobo06_00087.html",
-      "budget_year": "",
-      "budget_amount": "—",
-      "rate": "—",
-      "target": "—",
-      "summary": "令和７年度補正予算「地域一体となった観光産業の効率化支援事業」三次公募開始のお知らせ",
       "note": "",
       "highlight": false,
       "is_new": false
