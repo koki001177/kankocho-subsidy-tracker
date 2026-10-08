@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-10-07T03:27:28",
+  "last_updated": "2026-10-08T03:41:59",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
+    {
+      "id": "kobo06_00090",
+      "published": "2026年10月7日",
+      "status_raw": "採択結果",
+      "status": "result",
+      "title": "令和８年度「廃屋撤去・再生による地方温泉地等のまちづくり支援事業」採択結果のお知らせ",
+      "categories": [
+        "その他観光関係者",
+        "交通",
+        "宿泊業",
+        "旅行業",
+        "自治体・DMO",
+        "観光施設",
+        "一般の方"
+      ],
+      "deadline": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo06_00090.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "令和８年度「廃屋撤去・再生による地方温泉地等のまちづくり支援事業」採択結果のお知らせ",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
     {
       "id": "kobo06_00089",
       "published": "2026年10月2日",
@@ -22,32 +48,6 @@
       "rate": "—",
       "target": "—",
       "summary": "令和７年度補正「地域一体となった観光産業の効率化支援事業」(二次公募) 採択結果のお知らせ",
-      "note": "",
-      "highlight": false,
-      "is_new": false
-    },
-    {
-      "id": "kobo06_00090",
-      "published": "2026年10月1日",
-      "status_raw": "採択結果",
-      "status": "result",
-      "title": "令和８年度「廃屋撤去・再生による地方温泉地等のまちづくり支援事業」採択結果のお知らせ",
-      "categories": [
-        "その他観光関係者",
-        "交通",
-        "宿泊業",
-        "旅行業",
-        "自治体・DMO",
-        "観光施設",
-        "一般の方"
-      ],
-      "deadline": "",
-      "url": "https://www.mlit.go.jp/kankocho/kobo06_00090.html",
-      "budget_year": "",
-      "budget_amount": "—",
-      "rate": "—",
-      "target": "—",
-      "summary": "令和８年度「廃屋撤去・再生による地方温泉地等のまちづくり支援事業」採択結果のお知らせ",
       "note": "",
       "highlight": false,
       "is_new": false
