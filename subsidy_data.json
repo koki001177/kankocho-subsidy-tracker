@@ -1,7 +1,32 @@
 {
-  "last_updated": "2026-10-13T04:41:27",
+  "last_updated": "2026-10-14T02:50:16",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
+    {
+      "id": "kobo06_00091",
+      "published": "2026年10月14日",
+      "status_raw": "採択結果",
+      "status": "result",
+      "title": "令和８年度「能登半島地震からの復興に向けた観光再生支援事業」の２次公募における採択結果",
+      "categories": [
+        "その他観光関係者",
+        "交通",
+        "宿泊業",
+        "旅行業",
+        "自治体・DMO",
+        "観光施設"
+      ],
+      "deadline": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo06_00091.html",
+      "budget_year": "令和8年度",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "令和８年度「能登半島地震からの復興に向けた観光再生支援事業」の２次公募における採択結果",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
     {
       "id": "kobo13_00009",
       "published": "2026年10月8日",
