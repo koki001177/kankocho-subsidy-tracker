@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-10-22T02:35:46",
+  "last_updated": "2026-10-23T02:40:14",
   "source_url": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
   "entries": [
+    {
+      "id": "kobo09_00054",
+      "published": "2026年10月23日",
+      "status_raw": "募集中",
+      "status": "open",
+      "title": "令和８年「コンベンションビューロー等機能高度化促進事業 第1回オンラインセミナー」参加者募集",
+      "categories": [
+        "自治体・DMO"
+      ],
+      "deadline": "2026年10月30日",
+      "url": "https://www.mlit.go.jp/kankocho/kobo09_00054.html",
+      "budget_year": "",
+      "budget_amount": "—",
+      "rate": "—",
+      "target": "—",
+      "summary": "令和８年「コンベンションビューロー等機能高度化促進事業 第1回オンラインセミナー」参加者募集",
+      "note": "",
+      "highlight": false,
+      "is_new": false
+    },
     {
       "id": "kobo06_00091",
       "published": "2026年10月14日",
